@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Profile views counter](https://komarev.com/ghpvc/?username=Karim-bz)
 <!--
 **Karim-bz/Karim-bz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
