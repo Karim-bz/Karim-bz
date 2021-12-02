@@ -12,8 +12,8 @@
 
 **About**
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:    
--  **Languages :** JavaScript, Java, ...
+-  **Learning :** Web and Mobile Development :zap: | Open-Source :fire:    
+-  **Languages & Frameworks :** JavaScript, Java, PHP, Angular, Flutter
 -  **Hobbies :** Cars 🚗 & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [Karim Bouzid](mailto:kaarimbouzid@gmail.com)
