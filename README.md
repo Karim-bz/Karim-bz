@@ -1,7 +1,7 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=Karim-bz&label=Profile%20views&color=0e75b6&style=flat" alt="Karim-bz">
 <h1 align="center">Hi 👋, I'm Karim</h1>
 
-👋 Hi, I'm Karim,a passionate self-taught Mobile developer from Tunisia 🇹🇳🚀. 
+👋 Hi, I'm Karim,a passionate self-taught Fullstack Developper from Tunisia 🇹🇳🚀. 
 <p>Still studying to obtain the Master degree 🧑‍🎓</p>
 
 ## My profile overview:
