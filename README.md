@@ -1,8 +1,7 @@
 <img align ="right" src="https://komarev.com/ghpvc/?username=Karim-bz&label=Profile%20views&color=0e75b6&style=flat" alt="Karim-bz">
 <h1 align="center">Hi 👋, I'm Karim</h1>
 
-👋 Hi, I'm Karim,a passionate self-taught Fullstack Developper from Tunisia 🇹🇳🚀. 
-<p>Still studying to obtain the Master degree 🧑‍🎓</p>
+👋 Hi, I'm Karim,a passionate self-taught Flutter Mobile Application Developper from Tunisia 🇹🇳🚀.
 
 ## My profile overview:
 
@@ -13,7 +12,7 @@
 **About**
 
 -  **Learning :** Web and Mobile Development :zap: | Open-Source :fire:    
--  **Languages & Frameworks :** JavaScript, Java, PHP, Angular, Flutter
+-  **Languages & Frameworks :** JavaScript, NodeJS, Angular, Flutter, Ionic, Kotlin
 -  **Hobbies :** Cars 🚗 & Music :headphones:
 -  **Fact :** First solve the problem, then write the code :heart:
 -  **Contact me :** [Karim Bouzid](mailto:kaarimbouzid@gmail.com)
